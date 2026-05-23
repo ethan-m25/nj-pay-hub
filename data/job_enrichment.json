@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-22T09:22:34.865498+00:00",
-    "total_jobs": 235,
-    "enriched": 98
+    "built_at": "2026-05-23T09:23:25.098266+00:00",
+    "total_jobs": 246,
+    "enriched": 122
   },
   "jobs": {
     "account-manager-forbes-28695988": {
@@ -25,6 +25,51 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "designer--forbeslive-forbes-28695988": {
+      "summary": "Designer supports Forbes Live global events by creating visual identities and on-site experiences across branding, stage design, environmental graphics, and sponsor integrations.",
+      "key_skills": [
+        "event design",
+        "branding",
+        "visual identity",
+        "environmental graphics",
+        "sponsor integrations",
+        "marketing materials",
+        "digital design",
+        "motion graphics"
+      ],
+      "core_skills": [
+        "event creative execution",
+        "brand visibility",
+        "systems workflow"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--forbeslive-forbes-28695988": {
+      "summary": "Directs logistics and operations for ForbesLive events, ensuring seamless execution across in-person, virtual, and hybrid events while managing vendor relationships and budgets.",
+      "key_skills": [
+        "event logistics",
+        "operations leadership",
+        "vendor management",
+        "budget management",
+        "cross-functional collaboration",
+        "event planning",
+        "on-site execution",
+        "event operations"
+      ],
+      "core_skills": [
+        "event logistics",
+        "vendor management",
+        "budget management",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
@@ -120,6 +165,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "product-manager-forbes-28695988": {
+      "summary": "Product Manager leads the evolution of Forbes Intelligence platform to support global rankings and lists, enhancing scalability and monetization opportunities through cross-functional collaboration with Sales, Engineering, and Data teams.",
+      "key_skills": [
+        "product management",
+        "data",
+        "scalable systems",
+        "cross-functional collaboration",
+        "monetization",
+        "ai-driven features",
+        "revenue generation",
+        "structured data"
+      ],
+      "core_skills": [
+        "product strategy",
+        "analytical skills",
+        "cross-functional collaboration",
+        "structured data"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "project-manager--res-forbes-28695988": {
       "summary": "Oversees operational execution of data-driven list production workflows, ensuring projects stay on schedule and stakeholders remain aligned through detailed timelines and cross-functional coordination.",
       "key_skills": [
@@ -138,6 +206,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "senior-staff-writer--forbes-28695988": {
+      "summary": "Writes engaging feature stories and wine reviews for Forbes Wine, driving subscriptions and wine club memberships through content strategy.",
+      "key_skills": [
+        "wine",
+        "storytelling",
+        "content",
+        "journalism",
+        "digital",
+        "writing",
+        "editorial",
+        "reporting"
+      ],
+      "core_skills": [
+        "wine",
+        "storytelling",
+        "content",
+        "journalism"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "social-video-produce-forbes-28695988": {
       "summary": "Creates and edits highly engaging social-first content at scale across multiple platforms including Instagram, TikTok, and YouTube Shorts.",
@@ -298,6 +389,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "director--clinical-d-care-access-28695988": {
+      "summary": "The Director, Clinical Delivery Strategy drives scalable improvements in clinical delivery operations by optimizing referral pathways, staffing models, and end-to-end workflows to enhance patient access and study efficiency.",
+      "key_skills": [
+        "strategic planning",
+        "process optimization",
+        "operational efficiency",
+        "clinical delivery",
+        "referral management",
+        "data analytics",
+        "workflow redesign",
+        "cross-functional leadership"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "process optimization",
+        "operational efficiency",
+        "clinical delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "director--financial--care-access-28695988": {
       "summary": "Directs financial operations including AP, AR, and revenue processes, drives process automation and system improvements, and ensures regulatory compliance.",
@@ -480,6 +594,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-specialist--r-care-access-28695988": {
+      "summary": "Senior Specialist, Regulatory Operations oversees and executes all site-level regulatory operational activities for U.S. clinical trials, ensuring compliance with FDA, OHRP, and global standards while managing site start-ups and regulatory submissions.",
+      "key_skills": [
+        "regulatory operations",
+        "clinical trials",
+        "us regulations",
+        "fda compliance",
+        "irb submissions",
+        "site operations",
+        "study closeout",
+        "gcp"
+      ],
+      "core_skills": [
+        "regulatory compliance",
+        "site management",
+        "irb submissions",
+        "gcp"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "specialist--study-tr-care-access-28695988": {
       "summary": "Tracks clinical staff training completion, maintains delegation of authority matrices, and ensures regulatory compliance through documentation and cross-functional collaboration.",
       "key_skills": [
@@ -523,6 +660,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "travel-sub-investiga-care-access-28695988": {
+      "summary": "Sub-Investigator supports clinical research studies by administering investigational products, conducting physical examinations, monitoring for adverse reactions, and ensuring compliance with clinical trial protocols and regulations.",
+      "key_skills": [
+        "nurse practitioner",
+        "physician assistant",
+        "clinical research",
+        "investigational products",
+        "iv administration",
+        "subcutaneous administration",
+        "intramuscular administration",
+        "phlebotomy"
+      ],
+      "core_skills": [
+        "clinical research",
+        "good clinical practice",
+        "gcp",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "federal-senior-saviy-saviynt-28695988": {
       "summary": "The Senior Saviynt Product Architect designs and implements secure identity governance solutions using Saviynt IGA platform, ensuring compliance and scalability across enterprise environments.",
@@ -728,6 +888,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "brand-designer-vanta-68034782": {
+      "summary": "Brand Designer creates high-quality brand assets across digital, web, campaigns, and print while translating creative briefs into visual solutions that align with brand standards.",
+      "key_skills": [
+        "brand design",
+        "typography",
+        "composition",
+        "visual systems",
+        "layout",
+        "figma",
+        "adobe creative suite",
+        "ai tools"
+      ],
+      "core_skills": [
+        "brand identity",
+        "visual storytelling",
+        "cross-functional collaboration",
+        "typographic excellence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "cpq-lead--business-s-vanta-68034782": {
       "summary": "The CPQ Lead owns the vision, strategy, and execution of Vanta's Configure, Price, Quote ecosystem to ensure quoting, pricing, and contracting workflows scale with the business while remaining accurate, efficient, and user-friendly.",
@@ -1045,6 +1228,29 @@
         "testing"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-accountant-vanta-68034782": {
+      "summary": "Senior Accountant focuses on payroll accounting, reconciliations, and flux analysis while partnering with HR and Payroll to ensure accurate financial reporting.",
+      "key_skills": [
+        "payroll accounting",
+        "reconciliations",
+        "flux analysis",
+        "benefits allocation",
+        "accruals",
+        "variance analysis",
+        "AI tools",
+        "process improvement"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "attention to detail",
+        "research and resolution",
+        "cross-functional partnership"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -1408,6 +1614,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "enterprise-security--benchling-68034782": {
+      "summary": "Enterprise Security Engineer responsible for implementing zero trust security strategies, managing identity and access controls, and ensuring secure AI integration across biotech R&D workflows.",
+      "key_skills": [
+        "ai",
+        "security",
+        "zero_trust",
+        "identity_management",
+        "macos",
+        "sso",
+        "oidc",
+        "oauth"
+      ],
+      "core_skills": [
+        "zero_trust_architecture",
+        "identity_protocols",
+        "macos_fleet_management",
+        "scripting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "software-engineer--p-benchling-68034782": {
       "summary": "Builds and implements tooling for efficient development, testing, and packaging to enable rapid code releases within 10 minutes while improving developer experience and engineering workflows.",
       "key_skills": [
@@ -1544,6 +1773,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "director--clinical-e-headway-68034782": {
+      "summary": "Owns end-to-end clinical education strategy to empower therapists and psychologists across Headway's network while improving clinical quality and retention through scalable learning programs.",
+      "key_skills": [
+        "clinical excellence",
+        "education",
+        "provider network",
+        "clinical quality",
+        "compliance",
+        "regulatory",
+        "learning management system",
+        "lms"
+      ],
+      "core_skills": [
+        "clinical credibility",
+        "adult learning",
+        "systems scaling",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "director--technical--headway-68034782": {
       "summary": "Directs technical recruiting for R&D teams to scale hiring across engineering, data, product, design, security, and IT while ensuring high-impact talent acquisition and operational excellence.",
@@ -1798,6 +2050,52 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-revenue-accou-headway-68034782": {
+      "summary": "Senior Revenue Accountant ensures accurate and compliant revenue accounting for a fast-growing company by managing ASC 606 revenue recognition, month-end close activities, and building scalable revenue processes while collaborating with cross-functional teams.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "month-end close",
+        "revenue recognition",
+        "process automation",
+        "cross-functional collaboration",
+        "audit compliance"
+      ],
+      "core_skills": [
+        "asc 606",
+        "financial reporting",
+        "revenue recognition",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "strategic-finance-le-headway-68034782": {
+      "summary": "Builds and maintains financial models to assess GTM investment efficiency, tracks performance, and surfaces insights for strategic resource allocation across Provider and Patient Growth initiatives.",
+      "key_skills": [
+        "google sheets",
+        "financial modeling",
+        "data analysis",
+        "kpi analysis",
+        "looker",
+        "ai tools",
+        "unit economics",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "financial analysis",
+        "strategic decision-making",
+        "budgeting",
+        "forecasting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "sr--designer--ux-des-amazon-84630895": {
       "summary": "Sr Designer creates strategic, conceptual designs for customer experiences rooted in Audible brand, leveraging marketing and design systems to solve complex business problems across web, app, email, and global marketplaces.",
       "key_skills": [
@@ -1867,6 +2165,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid flexible"
     },
+    "it-business-analyst--pseg-55211142": {
+      "summary": "The Principal Business Analyst II leads complex SAP Modernization Programs, drives business transformation through strategic analysis, and collaborates with senior leaders to align technology solutions with business objectives.",
+      "key_skills": [
+        "sap",
+        "business analysis",
+        "modernization",
+        "power bi",
+        "data analysis",
+        "it strategy",
+        "process optimization",
+        "project management"
+      ],
+      "core_skills": [
+        "business analysis",
+        "sap",
+        "power bi",
+        "project management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid flexible"
+    },
     "director-cybersecuri-pseg-55211142": {
       "summary": "The Director, Cybersecurity Operations leads the development, implementation, and ongoing coordination of enterprise-wide cybersecurity operations, including Threat Engineering, Threat Detection, Cybersecurity Industry Threats Coordination, Endpoint Security, Network Security, Email Security, the Security Operations Center (SOC), Threat Analysis and Incident Response, Cybersecurity Logging & Monitoring, Vulnerability Management, Application Security, Data Security, Insider Trust, Threat Intelligence, and Cyber Threat Hunting.",
       "key_skills": [
@@ -1915,6 +2236,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid flexible"
+    },
+    "senior-transmission--pseg-55211142": {
+      "summary": "Monitors and controls bulk power systems under normal and emergency conditions while ensuring compliance with regulatory standards.",
+      "key_skills": [
+        "transmission",
+        "system",
+        "operator",
+        "power",
+        "grid",
+        "control",
+        "analysis",
+        "load"
+      ],
+      "core_skills": [
+        "power system",
+        "load flow",
+        "emergency response",
+        "real-time monitoring"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "senior-buyer-reckitt-55211142": {
       "summary": "Senior Buyer manages strategic procurement projects, negotiates supplier contracts, optimizes costs through tenders and RFQs, and ensures financial compliance while collaborating with cross-functional teams.",
@@ -2052,6 +2396,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "head-of-environmenta-reckitt-55211142": {
+      "summary": "Head of Environmental Compliance leads regional environmental strategy and execution for North America, ensuring regulatory compliance, environmental risk management, and sustainability initiatives across manufacturing sites.",
+      "key_skills": [
+        "environmental compliance",
+        "regulatory compliance",
+        "sustainability",
+        "risk management",
+        "environmental risk",
+        "audit",
+        "site compliance",
+        "environmental masterplan"
+      ],
+      "core_skills": [
+        "regulatory compliance",
+        "sustainability",
+        "risk management",
+        "environmental risk"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "early-careers-talent-reckitt-55211142": {
       "summary": "Early Careers Talent Manager leads strategy and delivery for Interns and Grad Rotational Programs, owning campus partnerships, assessment & selection, onboarding, and program operations.",
       "key_skills": [
@@ -2164,6 +2531,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "vp--professional-ser-vanta-55211142": {
+      "summary": "Builds and leads Vanta's Professional Services function from scratch to deliver scalable service offerings and drive customer outcomes through strategic partnerships and AI-enhanced delivery models.",
+      "key_skills": [
+        "saaS",
+        "professional services",
+        "consulting",
+        "compliance",
+        "security",
+        "ai",
+        "revenue",
+        "leadership"
+      ],
+      "core_skills": [
+        "revenue ownership",
+        "process design",
+        "partner enablement",
+        "customer success"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "manager--global-memb-forbes-41499647": {
       "summary": "Manages global membership program for C-suite leaders and innovators, ensuring high standards and seamless onboarding of international licensees into Forbes' executive membership club.",
       "key_skills": [
@@ -2210,6 +2600,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "territory-manager-ne-pseg-41499647": {
+      "summary": "Territory Manager leads new business projects ranging from $1M to $20M, coordinates with customer care and utility operations teams, and serves as a key point of contact for developers and industry groups.",
+      "key_skills": [
+        "territory management",
+        "new business",
+        "project initiation",
+        "customer care",
+        "developer relations",
+        "utility operations",
+        "project governance",
+        "capital planning"
+      ],
+      "core_skills": [
+        "project management",
+        "strategic planning",
+        "process improvement",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-admin-associa-pseg-41499647": {
       "summary": "Senior Admin Associate performs administrative services including handling confidential documents, managing calendars, and supporting team operations.",
       "key_skills": [
@@ -2226,6 +2639,144 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "channel-manager-vanta-27953552": {
+      "summary": "Manages channel partnerships to drive revenue growth and partner deployment for the downmarket segment through co-selling and relationship building with partners.",
+      "key_skills": [
+        "channel management",
+        "partner deployment",
+        "sales pipeline",
+        "co-selling",
+        "partner enablement",
+        "relationship building",
+        "pipeline rigor",
+        "partner acquisition"
+      ],
+      "core_skills": [
+        "channel partner experience",
+        "co-selling",
+        "cross-functional collaboration",
+        "proactive self-starter"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "head-of-solutions-en-vanta-27953552": {
+      "summary": "Owns and scales Vanta's regional Solutions Engineering organization across North America, driving technical win rates, accelerating deals, and shaping the company's go-to-market strategy.",
+      "key_skills": [
+        "solutions engineering",
+        "technical consulting",
+        "sales engineering",
+        "pre-sales",
+        "customer success",
+        "governance",
+        "compliance",
+        "security"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic planning",
+        "cross-functional collaboration",
+        "operational excellence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "revenue-operations-a-vanta-27953552": {
+      "summary": "Owns day-to-day operational excellence of Vanta's NAMER SDR organization and makes recommendations to improve Vanta’s GTM motion",
+      "key_skills": [
+        "revenue operations",
+        "sales operations",
+        "sales development",
+        "sdr",
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "gtm"
+      ],
+      "core_skills": [
+        "data analysis",
+        "process optimization",
+        "sales metrics",
+        "sdr"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "agentic-ai-engineer-benchling-27953552": {
+      "summary": "Builds and ships enterprise agentic AI systems for biotech R&D, enabling cross-functional teams to integrate AI into their workflows while ensuring security and scalability.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "software_engineering",
+        "data_engineering",
+        "agentic_ai",
+        "ai_platforms",
+        "biotech",
+        "cloud_computing"
+      ],
+      "core_skills": [
+        "ai_fluency",
+        "technical_direction",
+        "production_code",
+        "enterprise_architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-medical-di-headway-27953552": {
+      "summary": "Supports health plan partnerships and strategy while driving data analyses to prove patient outcomes and inform product development.",
+      "key_skills": [
+        "mental health",
+        "healthcare",
+        "software",
+        "billing",
+        "therapy",
+        "insurance",
+        "providers",
+        "clinical"
+      ],
+      "core_skills": [
+        "payer partnerships",
+        "data analysis",
+        "clinical strategy",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "institutional---spec-bayer-27953552": {
+      "summary": "Drives clinical demand, education, and sales for Asundexian, a next-generation stroke prevention therapy, by communicating its value to healthcare institutions and stakeholders.",
+      "key_skills": [
+        "stroke",
+        "thrombosis",
+        "pharmaceutical",
+        "sales",
+        "institutional",
+        "specialty",
+        "neurology",
+        "launch"
+      ],
+      "core_skills": [
+        "sales",
+        "institutional",
+        "specialty",
+        "neurology"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     }
   }
 }
