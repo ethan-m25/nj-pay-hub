@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-25T09:19:32.155876+00:00",
+    "built_at": "2026-05-26T09:19:30.287018+00:00",
     "total_jobs": 247,
-    "enriched": 166
+    "enriched": 186
   },
   "jobs": {
     "account-manager-forbes-28695988": {
@@ -253,6 +253,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "senior-research-anal-forbes-28695988": {
+      "summary": "The Forbes Intelligence Sr Research Analyst translates editorial methodologies into data strategies, sources and validates data for Forbes lists while ensuring data quality and reusability across the organization.",
+      "key_skills": [
+        "data",
+        "research",
+        "analytics",
+        "methodologies",
+        "surveys",
+        "data_validation",
+        "data_quality",
+        "data_management"
+      ],
+      "core_skills": [
+        "data_strategy",
+        "data_quality",
+        "methodology_alignment",
+        "cross_functional_collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-staff-writer--forbes-28695988": {
       "summary": "Writes engaging feature stories and wine reviews for Forbes Wine, driving subscriptions and wine club memberships through content strategy.",
       "key_skills": [
@@ -345,6 +368,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "clinical-trial-manag-care-access-28695988": {
+      "summary": "The Clinical Trial Manager drives the successful execution of clinical trials or projects from strategic planning through closeout, ensuring adherence to timelines, budgets, regulatory requirements, and quality standards while coordinating cross-functional teams and sponsors.",
+      "key_skills": [
+        "clinical trial management",
+        "project management",
+        "regulatory compliance",
+        "decentralized trials",
+        "cross-functional coordination",
+        "risk management",
+        "quality assurance",
+        "stakeholder liaison"
+      ],
+      "core_skills": [
+        "project management",
+        "regulatory compliance",
+        "risk management",
+        "stakeholder liaison"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "clinical-vendor-acqu-care-access-28695988": {
       "summary": "Manages clinical vendor acquisition, including identifying, sourcing, qualifying, onboarding, negotiating, and managing vendor relationships to support clinical research objectives.",
       "key_skills": [
@@ -365,6 +411,26 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "clinical-vendor-acti-care-access-28695988": {
+      "summary": "The Clinical Vendor Activation Manager oversees vendor engagement during clinical trial start-up and execution, ensuring vendors are qualified, contracted, and aligned with study protocols and activation timelines.",
+      "key_skills": [
+        "clinical",
+        "vendor",
+        "activation",
+        "manager",
+        "study",
+        "start-up",
+        "execution"
+      ],
+      "core_skills": [
+        "clinical",
+        "vendor"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
@@ -522,6 +588,50 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "enterprise-performan-care-access-28695988": {
+      "summary": "The Enterprise Performance Analytics Engineer designs, builds, and maintains data pipelines, data marts, and data models to ensure data quality and enable reliable reporting for analytics teams.",
+      "key_skills": [
+        "sql",
+        "data_modeling",
+        "data_pipelines",
+        "data_quality",
+        "etl_elt",
+        "data_lineage",
+        "version_control"
+      ],
+      "core_skills": [
+        "sql",
+        "data_modeling",
+        "data_pipelines"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "experiential---media-care-access-28695988": {
+      "summary": "Manages end-to-end planning and execution of live events and film productions with oversight of production timelines, vendor logistics, and budget management.",
+      "key_skills": [
+        "film production",
+        "event management",
+        "adobe premiere",
+        "logistics coordination",
+        "budget management",
+        "vendor negotiation",
+        "safety compliance",
+        "ai tools"
+      ],
+      "core_skills": [
+        "event management",
+        "logistics coordination",
+        "budget management",
+        "vendor negotiation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "financial-operations-care-access-28695988": {
       "summary": "Oversees day-to-day accounting activities, monitors general ledger, leads ASC 606 revenue determinations, and ensures accurate financial reporting.",
@@ -681,6 +791,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "senior-accountant-care-access-28695988": {
+      "summary": "Oversees day-to-day accounting activities, ensures accurate financial reporting, and coordinates audits for a fast-paced company.",
+      "key_skills": [
+        "netSuite",
+        "excel",
+        "accounting",
+        "revenue recognition",
+        "financial reporting",
+        "audits",
+        "internal controls",
+        "process improvement"
+      ],
+      "core_skills": [
+        "accounting",
+        "financial reporting",
+        "audits",
+        "internal controls"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-business-deve-care-access-28695988": {
       "summary": "Senior Business Development Director drives growth for Care Access by managing key account relationships, developing strategic sales plans, and delivering value propositions to pharmaceutical, biotech, and medical device trial sponsors.",
       "key_skills": [
@@ -703,6 +836,29 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-data-engineer-care-access-28695988": {
+      "summary": "Senior Data Engineer designs, develops, and maintains robust data pipelines for reliable ingestion, transformation, and delivery of complex data across systems.",
+      "key_skills": [
+        "databricks",
+        "sql",
+        "data engineering",
+        "cloud data warehouses",
+        "data pipelines",
+        "data transformation",
+        "data ingestion",
+        "data orchestration"
+      ],
+      "core_skills": [
+        "data engineering",
+        "cloud data warehouses",
+        "data pipelines",
+        "data transformation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "senior-enterprise-pe-care-access-28695988": {
       "summary": "Senior Enterprise Performance Analyst synthesizes insights from across the organization to empower leaders with visibility for optimizing site operations and high-level decision-making through dashboards, analytics, and cross-functional collaboration.",
@@ -812,6 +968,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-trainer--clin-care-access-28695988": {
+      "summary": "Senior Trainer, Clinical Education delivers standardized onboarding and continuous training for clinical research staff to ensure compliance and readiness while addressing complex training challenges.",
+      "key_skills": [
+        "clinical education",
+        "onboarding",
+        "training",
+        "compliance",
+        "regulatory standards",
+        "site operations",
+        "clinical research coordinators",
+        "stakeholder collaboration"
+      ],
+      "core_skills": [
+        "training delivery",
+        "curriculum development",
+        "compliance management",
+        "regulatory adherence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "senior-video-and-fil-care-access-28695988": {
       "summary": "Senior Video and Film Editor crafts compelling narratives from raw video footage to deliver impactful health-focused content across various platforms.",
@@ -1036,6 +1215,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "principal-software-e-saviynt-68034782": {
+      "summary": "Designs and implements secure enterprise identity cloud solutions using cloud platforms and microservices while mentoring engineering teams.",
+      "key_skills": [
+        "cloud",
+        "security",
+        "compliance",
+        "identity",
+        "api",
+        "microservices",
+        "event-driven",
+        "java"
+      ],
+      "core_skills": [
+        "java",
+        "spring",
+        "react",
+        "kubernetes"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "senior-principal-sof-saviynt-68034782": {
       "summary": "Designs, implements, tests, and releases end-to-end workflows for AI security products while building foundational solutions across multiple agent platforms like AWS Bedrock and Google AgentSpace.",
@@ -1872,6 +2074,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-product-manag-vanta-68034782": {
+      "summary": "Owns the product vision, strategy, and roadmap for Vanta's Personnel product, focusing on AI-enabled compliance and people data management to automate employee lifecycle workflows and ensure regulatory adherence.",
+      "key_skills": [
+        "product_management",
+        "ai",
+        "compliance",
+        "hris",
+        "data_infrastructure",
+        "customer_discovery",
+        "agentic_ai",
+        "solutions_engineering"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "technical_fluency",
+        "ai_product_experience",
+        "customer_centric_discovery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-software-engi-vanta-68034782": {
       "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
       "key_skills": [
@@ -2145,6 +2370,28 @@
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "detection-and-respon-benchling-68034782": {
+      "summary": "Detects and responds to security threats using AI and automation, building scalable incident response processes and threat detection mechanisms for biotech R&D platforms.",
+      "key_skills": [
+        "ai",
+        "security",
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation",
+        "cloud"
+      ],
+      "core_skills": [
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "enterprise-security--benchling-68034782": {
       "summary": "Enterprise Security Engineer responsible for implementing zero trust security strategies, managing identity and access controls, and ensuring secure AI integration across biotech R&D workflows.",
@@ -2625,6 +2872,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "prescriber-clinical--headway-68034782": {
+      "summary": "Clinical Quality Manager supports clinical quality monitoring initiatives and Ongoing Professional Practice Evaluation for providers, conducting chart reviews, providing feedback, creating remediation plans, and collaborating with cross-functional teams to optimize workflows.",
+      "key_skills": [
+        "clinical quality monitoring",
+        "chart review",
+        "evidence-based practices",
+        "documentation standards",
+        "quality improvement",
+        "clinical oversight",
+        "remediation planning",
+        "provider network management"
+      ],
+      "core_skills": [
+        "clinical documentation",
+        "quality assurance",
+        "healthcare compliance",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "principal--prescribe-headway-68034782": {
       "summary": "Spearheads clinical quality monitoring initiatives and leads ongoing professional practice evaluation programs for mental health providers to ensure safety, efficiency, and effectiveness of care delivery.",
       "key_skills": [
@@ -2665,6 +2935,29 @@
         "talent acquisition",
         "ai enablement",
         "process optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "recruiting-coordinat-headway-68034782": {
+      "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
+      "key_skills": [
+        "scheduling",
+        "coordination",
+        "recruiting",
+        "talent",
+        "operations",
+        "candidate_experience",
+        "logistics",
+        "data_hygiene"
+      ],
+      "core_skills": [
+        "scheduling",
+        "coordination",
+        "candidate_experience",
+        "data_hygiene"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -2739,6 +3032,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "senior-manager--peop-headway-68034782": {
+      "summary": "Designs and optimizes People Systems and Operations technology to support Headway's employee lifecycle and internal processes, ensuring scalable and efficient HR operations through Workday administration and cross-functional collaboration.",
+      "key_skills": [
+        "workday",
+        "hcm",
+        "automation",
+        "people_operations",
+        "systems_administration",
+        "technical_support",
+        "change_management",
+        "workforce_management"
+      ],
+      "core_skills": [
+        "workday",
+        "hcm",
+        "automation",
+        "people_operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "senior-operations-as-headway-68034782": {
       "summary": "Senior Operations Associate responsible for operationalizing and scaling core workflows to deliver real-world impact to patients and providers through data-driven automation and cross-functional collaboration.",
@@ -2970,6 +3286,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid flexible"
     },
+    "principal-it-project-pseg-55211142": {
+      "summary": "Oversees individual work streams within the SAP Modernization Program from initiation to completion, managing project budgets, resources, and schedules to ensure successful delivery.",
+      "key_skills": [
+        "project management",
+        "sap",
+        "budgeting",
+        "resource management",
+        "risk management",
+        "wbs",
+        "vendor management",
+        "stakeholder engagement"
+      ],
+      "core_skills": [
+        "project management",
+        "sap",
+        "budgeting",
+        "resource management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid flexible"
+    },
     "director-cybersecuri-pseg-55211142": {
       "summary": "The Director, Cybersecurity Operations leads the development, implementation, and ongoing coordination of enterprise-wide cybersecurity operations, including Threat Engineering, Threat Detection, Cybersecurity Industry Threats Coordination, Endpoint Security, Network Security, Email Security, the Security Operations Center (SOC), Threat Analysis and Incident Response, Cybersecurity Logging & Monitoring, Vulnerability Management, Application Security, Data Security, Insider Trust, Threat Intelligence, and Cyber Threat Hunting.",
       "key_skills": [
@@ -3025,6 +3364,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "energy-efficiency-sp-pseg-55211142": {
+      "summary": "Energy Efficiency Specialist provides program management oversight over energy efficiency projects, ensuring compliance with BPU regulations and cost effectiveness while coordinating vendors and contractors.",
+      "key_skills": [
+        "energy efficiency",
+        "program management",
+        "project oversight",
+        "budget management",
+        "bpu compliance",
+        "vendor coordination",
+        "qaqc",
+        "safety protocols"
+      ],
+      "core_skills": [
+        "program management",
+        "project oversight",
+        "budget management",
+        "bpu compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid flexible"
+    },
     "summer-2026-staff-in-pseg-55211142": {
       "summary": "Works as an analyst on the Utility Sales and Revenue Forecasting team developing and maintaining PSE&G’s 10-year forecast for sales and revenue and supporting regulatory filings.",
       "key_skills": [
@@ -3038,6 +3400,29 @@
         "regulatory filings"
       ],
       "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid flexible"
+    },
+    "principal-staff-powe-pseg-55211142": {
+      "summary": "Performs complex power system engineering studies to determine system limitations and optimize performance for distribution and transmission systems, including load forecasting and stability analysis.",
+      "key_skills": [
+        "power systems engineering",
+        "distribution system",
+        "transmission system",
+        "load forecasting",
+        "stability analysis",
+        "short circuit studies",
+        "interconnection studies",
+        "load flow analysis"
+      ],
+      "core_skills": [
+        "power system analysis",
+        "technical analysis",
+        "system reliability",
+        "distribution modeling"
+      ],
+      "seniority_signal": "principal",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid flexible"
@@ -3082,6 +3467,29 @@
         "load flow",
         "emergency response",
         "real-time monitoring"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "it-d-senior-product--reckitt-55211142": {
+      "summary": "IT&D Senior Product Analyst leads the strategy and end-to-end lifecycle of enterprise data products across commercial, supply chain, and finance domains, building scalable, reusable data solutions while ensuring governance and alignment with global stakeholders.",
+      "key_skills": [
+        "databricks",
+        "sql",
+        "python",
+        "azure",
+        "devops",
+        "data engineering",
+        "data governance",
+        "cloud"
+      ],
+      "core_skills": [
+        "data product strategy",
+        "end-to-end data lifecycle",
+        "cross-domain collaboration",
+        "kpi tracking"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -3221,6 +3629,29 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--gl-reckitt-55211142": {
+      "summary": "Drives innovation across Reckitt’s Global VMS portfolio by applying scientific expertise and strategic insight to support product development and medical evidence strategies.",
+      "key_skills": [
+        "medical affairs",
+        "vitamins",
+        "minerals",
+        "supplements",
+        "scientific expertise",
+        "evidence strategy",
+        "product development",
+        "regulatory compliance"
+      ],
+      "core_skills": [
+        "scientific expertise",
+        "evidence strategy",
+        "product development",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -3559,6 +3990,30 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "global-emo-procureme-reckitt-41499647": {
+      "summary": "Manages external manufacturing organizations procurement strategies, supplier negotiations, and risk mitigation for Reckitt's Nutrition business.",
+      "key_skills": [
+        "procurement",
+        "sourcing",
+        "supplier",
+        "relationship",
+        "management",
+        "strategic",
+        "commercial",
+        "negotiation",
+        "contract"
+      ],
+      "core_skills": [
+        "sourcing",
+        "supplier",
+        "relationship",
+        "management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "channel-manager-vanta-27953552": {
       "summary": "Manages channel partnerships to drive revenue growth and partner deployment for the downmarket segment through co-selling and relationship building with partners.",
