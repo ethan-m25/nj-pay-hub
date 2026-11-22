@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 6235,
+    "count": 6236,
     "active": 4330,
-    "new_today": 37,
+    "new_today": 3,
     "links_newly_archived": 1,
-    "updated": "2026-11-21T06:20:43Z",
+    "updated": "2026-11-22T06:15:32Z",
     "state": "New Jersey",
     "law": "⚖️ NJ P.L. 2023 c.16",
     "currency": "USD",
@@ -15540,7 +15540,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "senior-partner--adve-wal-mart-com-us-63308518",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-07-19",
@@ -15553,7 +15553,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-11-22"
     },
     {
       "role": "Senior Partner, Advertising Sales, Walmart Connect - Vitamins / Supplements",
@@ -178266,6 +178267,32 @@
       "scraped": "2026-11-21",
       "last_seen": "2026-11-21",
       "location_display": "Remote (NJ)",
+      "location_city": ""
+    },
+    {
+      "role": "Senior Photonics Packaging Engineer - Acacia (Hybrid)",
+      "company": "Cisco Systems, Inc.",
+      "min": 194600,
+      "max": 285700,
+      "location": "New Jersey, NJ",
+      "source_url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Holmdel-New-Jersey-US/Senior-Photonics-Packaging-Engineer---Acacia--Hybrid-_2030641",
+      "posted": "2026-11-22",
+      "currency": "USD",
+      "region": "NJ",
+      "_width": 91100,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "senior-photonics-pac-cisco-systems---28132248",
+      "status": "active",
+      "date_added": "2026-11-22",
+      "scraped": "2026-11-22",
+      "last_seen": "2026-11-22",
+      "location_display": "Statewide (NJ)",
       "location_city": ""
     }
   ]
