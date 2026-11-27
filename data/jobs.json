@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 6302,
-    "active": 4338,
-    "new_today": 19,
+    "count": 6303,
+    "active": 4336,
+    "new_today": 1,
     "links_newly_archived": 3,
-    "updated": "2026-11-26T06:22:21Z",
+    "updated": "2026-11-27T06:19:50Z",
     "state": "New Jersey",
     "law": "⚖️ NJ P.L. 2023 c.16",
     "currency": "USD",
@@ -15857,7 +15857,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "staff--data-scientis-walmart-inc--63308518",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-07-19",
@@ -15870,7 +15870,8 @@
       "category_provisional": false,
       "category_title": "Data & Analytics",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Data & Analytics"
+      "category_legacy": "Data & Analytics",
+      "archived_date": "2026-11-27"
     },
     {
       "role": "Manager, Campaign Management - Sam's Club Member Access Platform (MAP)",
@@ -15891,7 +15892,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "manager--campaign-ma-walmart-63308518",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-07-19",
@@ -15904,7 +15905,8 @@
       "category_provisional": false,
       "category_title": "Product & Project",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-27"
     },
     {
       "role": "Director, Learning & Development – Associate and Sales Development",
@@ -15925,7 +15927,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "director--learning---walmart-inc--63308518",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-07-19",
@@ -15938,7 +15940,8 @@
       "category_provisional": false,
       "category_title": "People & HR",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-11-27"
     },
     {
       "role": "Data Scientist III",
@@ -180179,6 +180182,33 @@
       "date_added": "2026-11-26",
       "scraped": "2026-11-26",
       "last_seen": "2026-11-26",
+      "location_display": "Statewide (NJ)",
+      "location_city": ""
+    },
+    {
+      "role": "Sr Digital Media Manager",
+      "company": "Reckitt",
+      "min": 151500,
+      "max": 227300,
+      "location": "New Jersey, NJ",
+      "source_url": "https://careers.reckitt.com/job/Nutley-Sr-Digital-Media-Manager-NJ-07110/1460832433/",
+      "posted": "2026-11-27",
+      "source_platform": "successfactors",
+      "currency": "USD",
+      "region": "NJ",
+      "_width": 75800,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "sr-digital-media-man-reckitt-60390285",
+      "status": "active",
+      "date_added": "2026-11-27",
+      "scraped": "2026-11-27",
+      "last_seen": "2026-11-27",
       "location_display": "Statewide (NJ)",
       "location_city": ""
     }
